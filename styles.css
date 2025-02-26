@@ -1,33 +1,11 @@
-h2{
-    color: purple;
-    text-align: right;
-  }
-  
-  body{
-    color: white;
-    background-color: black;
-  }
-  
-  img{
-    padding: 30px;
-    
-  }
-  
-  .bunny{
-    color: brown;  
-    border-style: dotted;
-    border-color: red;
-    font-size: 36px;
-  }
-  
-  #Kitty{
-    color: green;
-    float: left;
-  }
-  
-  #internet{
-    font-size: 24px;
-    
-  }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li{
+  display: inline;
+}
   
   /* This is a Css Comment */
