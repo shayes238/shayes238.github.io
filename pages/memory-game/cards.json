@@ -38,5 +38,13 @@
     {
       "image":"memoryimg/The_Puppy.jpg",
       "name":"pupper"  
-    }
+    },
+    {
+        "image":"memoryimg/highfivepuppy.avif",
+        "name":"highfive"  
+      },
+      {
+        "image":"memoryimg/cartpuppy.jpg",
+        "name":"pupper"  
+      }
 ]
