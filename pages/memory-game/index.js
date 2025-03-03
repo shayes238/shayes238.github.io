@@ -55,7 +55,9 @@ function flipCard() {
   }
 
   secondCard = this;
-  score++;
+  if (firstCard === secondCard){
+    score++
+  }
   document.querySelector(".score").textContent = score;
   lockBoard = true;
 
