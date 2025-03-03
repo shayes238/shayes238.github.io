@@ -1,42 +1,42 @@
 [
     {
-        "image": "../pages/memory-game/memoryimg/benched-team.jpeg",
+        "image": "memoryimg/benched-team.jpeg",
         "name": "benched"
     },
     {
-        "image": "../pages/memory-game/memoryimg/biting-pug.jpeg",
+        "image": "memoryimg/biting-pug.jpeg",
         "name": "pug"
     },
     {
-        "image": "../pages/memory-game/memoryimg/fence-dog.jpeg",
+        "image": "memoryimg/fence-dog.jpeg",
         "name": "fenced"
     },
     {
-        "image": "../pages/memory-game/memoryimg/hairy-dog.jpeg",
+        "image": "memoryimg/hairy-dog.jpeg",
         "name": "hairy"
     },
     {
-        "image": "../pages/memory-game/memoryimg/husky.jpeg",
+        "image": "memoryimg/husky.jpeg",
         "name": "husky"
     },
     {
-        "image": "../pages/memory-game/memoryimg/lavendar-puppy.jpeg",
+        "image": "memoryimg/lavendar-puppy.jpeg",
         "name": "lavendar"
     },
     {
-        "image": "../pages/memory-game/memoryimg/miniture-twins.jpg",
+        "image": "memoryimg/miniture-twins.jpg",
         "name": "twins"
     },
     {
-        "image": "../pages/memory-game/memoryimg/shiba-dog.jpeg",
+        "image": "memoryimg/shiba-dog.jpeg",
         "name": "shiba"
     },
     {
-        "image": "../pages/memory-game/memoryimg/white-teacup",
+        "image": "memoryimg/white-teacup",
         "name": "teacup"
     },
     {
-      "image":"../pages/memory-game/memoryimg/The_Puppy.jpg",
+      "image":"memoryimg/The_Puppy.jpg",
       "name":"pupper"  
     }
 ]
