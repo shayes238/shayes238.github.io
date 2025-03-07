@@ -1,6 +1,6 @@
 .cd-border{
     position: relative;
-    padding: 5rem;
+    padding: 1rem;
     margin: 0 -1.5rem 1rem;
     border: solid var(--bs-border-color);
     border-width: 1px 0;
