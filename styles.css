@@ -1,7 +1,8 @@
-.bd-example {
+.cd-border{
+    --bd-example-padding: 1rem;
     position: relative;
-    padding: 1rem;
-    margin: 1rem -.75rem 0;
-    border: solid #dee2e6;
-    border-width: 1px 0 0;
+    padding: var(--bd-example-padding);
+    margin: 0 -1.5rem 1rem;
+    border: solid var(--bs-border-color);
+    border-width: 1px 0;
 }
