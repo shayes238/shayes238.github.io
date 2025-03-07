@@ -1,5 +1,5 @@
 .cd-border{
-    --bd-example-padding: 5rem;
+    --bd-example-padding: 1rem;
     position: relative;
     padding: var(--bd-example-padding);
     margin: 0 -1.5rem 1rem;
