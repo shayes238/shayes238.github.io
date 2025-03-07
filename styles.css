@@ -6,3 +6,8 @@
     border: solid var(--bs-border-color);
     border-width: 1px 0;
 }
+
+img{
+    height: 50vh;
+    width: 50vh;
+}
