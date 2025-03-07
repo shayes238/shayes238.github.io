@@ -1,4 +1,6 @@
-.px-300-wide{
-    width: 300px;
-    height: 300px;
+#myCarousel .carousel-item img{
+    object-fit: cover;
+    object-position: center;
+    height: 50vh;
+    overflow: hidden;
 }
